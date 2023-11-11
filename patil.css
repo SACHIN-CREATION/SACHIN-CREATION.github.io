@@ -590,7 +590,7 @@ p{
     background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
     color: white;
 }
-#project2{
+.info2{
     padding: 30px;
     flex-basis: 53.3%;
     height: 100%;
